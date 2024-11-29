@@ -2,7 +2,9 @@
 
 A modern web application built with React and Supabase that enables college students to easily book and manage their luggage shipping between home and college.
 
-![StudentShip Homepage](https://images.unsplash.com/photo-1596276122653-ae4d3c2d4d2a?auto=format&fit=crop&q=80)
+
+
+[Check it out](https://studentship.saatvik.me/)
 
 ## Project Overview
 
