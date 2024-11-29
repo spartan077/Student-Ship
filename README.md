@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any queries or support:
 - Email: saatviktiwari@gmail.com
-- GitHub: [Your GitHub Profile]
+- GitHub: [spartan077](https://github.com/spartan077)
 
 ---
 
